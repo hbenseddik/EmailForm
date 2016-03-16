@@ -1,5 +1,6 @@
 # EmailForm
 Multi recipient email form
+(http://hadjbenseddik.com/php/form/index.php)
 
 A solid email form with multi recipient functionality and complete input validation.
 
