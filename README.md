@@ -19,4 +19,4 @@ Send: If ALL validation criterias are met, email with user Comment and Subjet wi
 		If error(s)  --> Error message will appear flashing a red error icon and prompting to try again after form reset for 3s, then reset form.
 
 
-Note: Not yet 100% complete. There definately are a few changes that could be made to yield a higher efficiency and I will get to them.
+Note: Not yet 100% complete. There definitely are a few changes that could be made to yield a higher efficiency and I will get to them.
