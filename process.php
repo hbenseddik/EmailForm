@@ -12,7 +12,7 @@ if ($_POST["submit"]){ /*Trigger only when submitted*/
     $subject = $_POST['subject'];
     $message = $_POST['message'];
 
-    $from = "hbensedd@gmail.com";
+    $from = "emailformtest2016@gmail.com";
     $title = "Message from contact form";
     $headers = "From: $from";
 
